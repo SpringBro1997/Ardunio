@@ -1,0 +1,8 @@
+=========== CÁC DẠNG DIGITAL TRONG ARDUINO
+
+1.
+  digitalWrite (tag,HIGH)
+  digitalWrite (tag,LOW)
+
+2. Có chức năng cho phép c tín hiệu ngõ vào là 'nút nhấn'
+  digitalRead (tag)

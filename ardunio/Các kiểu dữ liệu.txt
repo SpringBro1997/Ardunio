@@ -1,0 +1,8 @@
+===Các kiểu dữ liệu===
+   1.int
+   2. float
+   3.char
+   4.long
+   5.short
+   6.double
+   7. boolean 
